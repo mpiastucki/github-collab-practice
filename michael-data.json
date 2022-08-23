@@ -1,0 +1,10 @@
+{
+    "name": "michael",
+    "PCs": 4,
+    "hobbies": ["history", "video games", "goa trance"],
+    "prog-languages": ["javascript", "go", "python"],
+    "pokemon": {
+        "current-team": ["bulbasaur", "pikachu", "pidgey", "geodude", "kadabra", "staryu"],
+        "storage": ["ratatta", "diglet", "mankey"]
+    }
+}
