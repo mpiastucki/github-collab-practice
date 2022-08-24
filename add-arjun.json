@@ -1,0 +1,11 @@
+{
+    "name": "masato",
+    "hobbies": ["sakesakesake"],
+    "prog-languages": ["python"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["bulbasaur"],
+        "storage": ["ratatta"],
+        "pokeballs": 33
+    }
+}
