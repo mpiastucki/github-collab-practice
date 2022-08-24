@@ -1,0 +1,11 @@
+{
+    "name": "kosuke",
+    "hobbies": ["workout", "video games"],
+    "prog-languages": ["C#", "python", "flutter"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["koiking"],
+        "storage": ["poppo"],
+        "pokeballs": 1
+    }
+}
