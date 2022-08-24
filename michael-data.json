@@ -1,5 +1,5 @@
 {
-    "name": "michael",
+    "name": ["michael","kito"],
     "hobbies": ["history", "video games", "goa trance"],
     "prog-languages": ["javascript", "go", "python"],
     "is-woven-employee": true,
