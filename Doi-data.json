@@ -1,0 +1,11 @@
+{
+    "name": "Doi",
+    "hobbies": ["sports", "ra-menn"],
+    "prog-languages": ["Study Now"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["Japan"],
+        "storage": ["I don't know"],
+        "pokeballs": 4
+    }
+}
