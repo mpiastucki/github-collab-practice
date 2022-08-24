@@ -1,0 +1,11 @@
+{
+    "name": "michael",
+    "hobbies": ["baseball","camp","golf"],
+    "prog-languages": ["C#","Unity"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["ertyu"],
+        "storage": ["ertyulkjh"],
+        "pokeballs": 5
+    }
+}
