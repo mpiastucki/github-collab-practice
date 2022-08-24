@@ -1,10 +1,10 @@
 {
     "name": "arjun",
-    "prog-languages": ["javascript", "go", "python"],
+    "prog-languages": ["everything"],
     "is-woven-employee": true,
     "pokemon": {
-        "current-team": ["bulbasaur", "pikachu", "pidgey", "geodude", "kadabra", "staryu"],
-        "storage": ["ratatta", "diglet", "mankey"],
-        "pokeballs": 23
+        "current-team": ["jigglypuff"],
+        "storage": ["charmander"],
+        "pokeballs": 4
     }
 }
