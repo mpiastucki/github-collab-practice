@@ -1,0 +1,11 @@
+{
+    "name": "keisuke",
+    "hobbies": ["Anime", "video games", "travel"],
+    "prog-languages": ["python", "C++", "C#", "PHP"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["ditto", "snoriax", "dragonite"],
+        "storage": ["potion", "berry"],
+        "pokeballs": 15
+    }
+}
