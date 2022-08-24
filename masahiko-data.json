@@ -1,0 +1,11 @@
+{
+    "name": "masahiko",
+    "hobbies": ["onsen", "video games", "watch baseball"],
+    "prog-languages": ["C#","python"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["bulbasaur", "pikachu", "pidgey", "geodude", "kadabra", "staryu"],
+        "storage": ["ratatta", "diglet", "mankey"],
+        "pokeballs": 42
+    }
+}
