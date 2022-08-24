@@ -1,0 +1,11 @@
+{
+    "name": "kei",
+    "hobbies": ["basketball", "running"],
+    "prog-languages": ["C#", "C"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["DTP-Solution"],
+        "storage": ["ratatta", "diglet", "mankey"],
+        "pokeballs": 23
+    }
+}
