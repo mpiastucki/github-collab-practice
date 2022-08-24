@@ -1,0 +1,11 @@
+{
+    "name": "michael",
+    "hobbies": ["history", "baseball", "soccer"],
+    "prog-languages": ["javascript", "go", "python"],
+    "is-woven-employee": true,
+    "pokemon": {
+        "current-team": ["ball", "bat", "base", "batter", "goal"],
+        "storage": ["ratatta", "diglet", "mankey"],
+        "pokeballs": 23
+    }
+}
