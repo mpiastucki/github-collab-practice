@@ -1,0 +1,9 @@
+{
+    "name": "kohta",
+    "prog-languages": ["typescript", "go", "csharp"],
+    "is-woven-employee": true,
+    "pikmin": {
+        "count": 295,
+        "leve" : 31
+    }
+}
